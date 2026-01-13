@@ -72,4 +72,4 @@ PDF Summary:Need to be added
 
 Internationalization: Currently supports only one language. Adding multi-language support would expand usability.
 
-Unit and Integration Tests: Test coverage is limited; adding tests would improve maintainability and reduce regression risk.
+Unit and Integration Tests: Test coverage is limited; adding tests would improve maintainability and reduce regression risk
